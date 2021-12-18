@@ -20,7 +20,7 @@ Please refer to our slides for more information: ![slides](files/slides.pdf)
 
 This repository contains the documented notebook files which was used to train the LeNet, ResNet and VGG models (in total 126 models were trained) with different initialization techniques implemented in Pytorch.  
 
-### Results (including charts/tables) and your observations  
+### Results and observations  
 
 1. Resnet tends to keep over 60% parameters unchanged regardless of dataset, optimizer, initial point whereas LeNet and VGG had >90% parameters changed. We think it is due to lazy training phenomenon. 
 ![resnet_viz] (files/resnet_result.png)
