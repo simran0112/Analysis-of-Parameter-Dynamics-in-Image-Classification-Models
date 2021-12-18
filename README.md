@@ -1,5 +1,7 @@
 # Analysis-of-Parameter-Dynamics-in-Image-Classification-Models
 
+### Submitted by Saravanan Govindarajan (sg3896) and Simran Tiwari (st3400)
+
 Recently there have been multiple efforts to debunk the internal mechanics in DNNs by studying the dynamics of parameters and providing the reasons for its successes. In this project, we aim to understand CNNs by developing a tool to understand the evolution of parameters and performances (loss, accuracy) of image classification models during and after training for various initialization techniques. We also plan to study the feature relationships that the networks extracts for performing image classification. It will also be interesting to comment on the convergence of each model. Specifically, we use kaiming-uniform and kaiming-normal initializations to study the convergence points for each model. Moreover, we also apply the same methods on the pre-trained models and perturb each of the trained model parameters to initialize a new model and train it. With this approach, we end up having multiple local minimas for each model which gives us enough materials to study the convergence of all the models.
 
 Overall in this project we try to run different experiments to answer the following questions 
