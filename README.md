@@ -18,7 +18,7 @@ Please refer to our slides for more information: ![slides](files/slides.pdf)
 
 ### A description of the repository & commands to execute
 
-This repository contains the documented notebook files which was used to train the LeNet, ResNet and VGG models (in total 126 models were trained) with different initialization techniques implemented in Pytorch.  
+This repository contains documented notebook files which was used to train LeNet, ResNet and VGG models (in total 126 models were trained) with different initialization techniques implemented in Pytorch. These notebooks are readable through the Github interface.
 
 ### Results and observations  
 
